@@ -33,5 +33,5 @@ atlas_conn <- mongo(
   url        = Sys.getenv("ATLAS_URL")
 )
 
-atlas_conn$insert(btc_data)
+atlas_conn$insert(data)
 rm(atlas_conn)

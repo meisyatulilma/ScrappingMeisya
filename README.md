@@ -7,7 +7,7 @@
  # From Web to Data: Scraping yahoo News for Actionable Insights
 
  
-[![scrape_yahoo](https://github.com/windyayupratiwi/scraping-mds-/actions/workflows/main.yml/badge.svg)]
+[![scrape_yahoo](https://github.com/meisyatulilma/ScrappingMeisya/blob/main/README.md)]
   
 ## 🗞️:Tampilan Menu
 

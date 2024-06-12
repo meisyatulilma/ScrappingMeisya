@@ -4,7 +4,7 @@
     <img width="75%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Yahoo_news_logo.svg/2560px-Yahoo_news_logo.svg.png">
 </p>
  
- # From Web to Data: Scraping Tempo News for Actionable Insights
+ # From Web to Data: Scraping yahoo News for Actionable Insights
 
  
 [![scrape_tempo](https://github.com/windyayupratiwi/scraping-mds-/actions/workflows/main.yml/badge.svg)]

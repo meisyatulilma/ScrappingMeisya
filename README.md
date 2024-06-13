@@ -106,10 +106,11 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk <a href="https://news.
 ## :computer: PPT
 Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat :
 
+
 # :astronaut: Pengembang
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/windyayupratiwi"><img src=image/mds image 2.jpeg" width="115px;" alt=""/><br /><sub><b>Meisyatul Ilma </b></sub></a><br /><a
+   <td align="center"><a href="https://github.com/meisyatulilma"><img src="image/mds image 2.jpeg" width="115px;" alt=""/><br /><sub><b>Meisyatul Ilma </b></sub></a><br /><a
 <br /><sub><b>G1501231073 </b></sub></a>
   </tr>
 </table>

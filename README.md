@@ -68,7 +68,7 @@ Nikmati berita terbaru dan terpercaya langsung di genggaman Anda dengan Yahoo Ne
 
 ## :open_book: Project 
 <p align="center" width="60%">
-    <img width="40%" src="[image/news .pn](https://t4.ftcdn.net/jpg/02/61/44/71/360_F_261447178_D27dpLSYGaFANIdsT4xjJwv9NTdevvqz.jpg)">
+    <img width="40%" src="image/mds image.jpg">
 
  </p>
 <p align="justify"> 
@@ -85,3 +85,31 @@ Scraping berita dari situs <a href="https://news.yahoo.com/">Yahoo News</a> dila
 
 </div>
 
+# :books: Dokument
+Berikut adalah salah satu contoh dokumen di MongoDB untuk <a href="https://news.yahoo.com/">Yahoo News</a>  :
+
+```mongodb
+{
+  "_id": {
+    "$oid": "66573d23a7ec54b8500a7531"
+  },
+  "time_scraped": {
+    "$date": "2024-05-29T14:35:12.295Z"
+  },
+  "titles": "Japan's Toyota announces 'an engine born' with biofuel despite global push for battery electric cars",
+  "contents": "During a three-hour presentation at a Tokyo hall Tuesday, the car manufacturer giant announced it would offer lean compact engines that also run on so-called green fuels like hydrogen and bioethanol, or get paired with zero-emissions electric motors in hybrids.  This comes as many competitors in the auto industry are pushing for fully electric vehicles.  China is revving its push for Battery Electric Vehicles, and its own BYD is threatening to outshine Tesla in that push.",
+  "dates": "3 min read",
+  "links": "/news/tech/japans-toyota-announces-engine-born-103753954.html"
+}
+```
+
+## :computer: PPT
+Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat :
+
+# :astronaut: Pengembang
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/windyayupratiwi"><img src="image/windy ayu pratiwi.jpg" width="115px;" alt=""/><br /><sub><b>Windy Ayu Pratiwi </b></sub></a><br /><a
+<br /><sub><b>G1501231029 </b></sub></a>
+  </tr>
+</table>

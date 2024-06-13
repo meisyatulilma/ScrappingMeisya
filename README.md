@@ -30,24 +30,22 @@
 
 # :newspaper: Tentang
 
-Nikmati berita terbaru dan terpercaya langsung di genggaman Anda dengan **Yahoo News**. Sebagai salah satu portal berita terkemuka di dunia, **Yahoo News** menyajikan informasi terkini dengan kualitas jurnalistik yang tinggi.
+Nikmati berita terbaru dan terpercaya langsung di genggaman Anda dengan Yahoo News. Sebagai salah satu portal berita terkemuka di dunia, Yahoo News menyajikan informasi terkini dengan kualitas jurnalistik yang tinggi.
 
-
-<p align="justify">   
+   
 ## Fitur Unggulan Yahoo News
-📰 **Berita Terkini:** Dapatkan berita terbaru dari berbagai bidang, mulai dari politik, ekonomi, olahraga, hingga gaya hidup. Semua disajikan dengan cepat dan akurat.
 
-🕵️ **Investigasi Mendalam:** Nikmati laporan investigasi mendalam yang mengungkap fakta di balik peristiwa penting. Tim jurnalis **Yahoo News** dikenal dengan integritas dan keahlian mereka dalam menyajikan berita investigatif.
+**🔔 Update Cepat dan Terkini:** Jangan pernah ketinggalan berita terbaru dari berbagai bidang, mulai dari politik, ekonomi, olahraga, hingga gaya hidup. Semua disajikan secara real-time dan akurat.
 
-📊 **Analisis dan Opini:** Baca analisis dan opini dari para pakar dan jurnalis berpengalaman. Dapatkan wawasan mendalam tentang isu-isu terkini yang mempengaruhi kehidupan Anda.
+**🕵️ Investigasi Mendalam :** Temukan laporan investigasi yang mengungkap fakta-fakta penting di balik setiap peristiwa. Tim jurnalis Yahoo News dikenal dengan dedikasi dan integritas dalam menyajikan berita investigatif.
 
-🎥 **Konten Multimedia:** Selain artikel berita, nikmati juga konten multimedia seperti video, foto, dan infografis yang memperkaya pengalaman membaca Anda.
+**📊 Wawasan dan Analisis Pakar :** Baca analisis mendalam dan opini dari para pakar dan jurnalis berpengalaman. Dapatkan pemahaman yang lebih baik tentang isu-isu penting yang mempengaruhi kehidupan Anda.
 
-🌐 **Akses Mudah di Semua Perangkat:** Dengan antarmuka yang ramah pengguna, Anda bisa dengan mudah mengakses **Yahoo News** melalui browser atau aplikasi di perangkat apa pun. Selalu terhubung dengan berita terkini kapan saja dan di mana saja.
+**🎥 Konten Multimedia yang Kaya :** Selain artikel berita, nikmati juga konten multimedia seperti video, foto, dan infografis yang memperkaya pengalaman membaca Anda.
 
-</p>
+**📱 Akses Mudah di Semua Perangkat :** Dengan antarmuka yang ramah pengguna, Anda dapat dengan mudah mengakses Yahoo News melalui browser atau aplikasi di perangkat apa pun. Selalu terhubung dengan berita terkini kapan saja dan di mana saja.
 
-<p align="justify">   
+
 ## Mengapa Memilih Yahoo News?
 
 + **Akurat dan Terpercaya:** Berita yang disajikan oleh jurnalis berpengalaman dengan standar jurnalistik yang tinggi.
@@ -55,4 +53,6 @@ Nikmati berita terbaru dan terpercaya langsung di genggaman Anda dengan **Yahoo 
 + **Beragam Konten:** Dari berita harian hingga analisis mendalam dan konten multimedia.
 + **Akses Mudah:** Bisa diakses dari berbagai perangkat, memastikan Anda tetap up-to-date dengan berita terbaru kapan saja.
 
-</p>
+
+
+

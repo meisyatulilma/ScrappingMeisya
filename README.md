@@ -8,7 +8,6 @@
  # From Web to Data: Transforming Yahoo News into Actionable Insights
 
 
-  
 ## < Tampilan Menu >
 
 <div align="center">
@@ -35,7 +34,8 @@ Nikmati berita terbaru dan terpercaya langsung di genggaman Anda dengan Yahoo Ne
    
 ## Fitur Unggulan Yahoo News
 
-**🔔 Update Cepat dan Terkini:** Jangan pernah ketinggalan berita terbaru dari berbagai bidang, mulai dari politik, ekonomi, olahraga, hingga gaya hidup. Semua disajikan secara real-time dan akurat.
+<p align="justify"> 
+**🔔 Update Cepat dan Terkini :** Jangan pernah ketinggalan berita terbaru dari berbagai bidang, mulai dari politik, ekonomi, olahraga, hingga gaya hidup. Semua disajikan secara real-time dan akurat.
 
 **🕵️ Investigasi Mendalam :** Temukan laporan investigasi yang mengungkap fakta-fakta penting di balik setiap peristiwa. Tim jurnalis Yahoo News dikenal dengan dedikasi dan integritas dalam menyajikan berita investigatif.
 
@@ -44,15 +44,15 @@ Nikmati berita terbaru dan terpercaya langsung di genggaman Anda dengan Yahoo Ne
 **🎥 Konten Multimedia yang Kaya :** Selain artikel berita, nikmati juga konten multimedia seperti video, foto, dan infografis yang memperkaya pengalaman membaca Anda.
 
 **📱 Akses Mudah di Semua Perangkat :** Dengan antarmuka yang ramah pengguna, Anda dapat dengan mudah mengakses Yahoo News melalui browser atau aplikasi di perangkat apa pun. Selalu terhubung dengan berita terkini kapan saja dan di mana saja.
-
+</p>
 
 ## Mengapa Memilih Yahoo News?
 
+<p align="justify">
 + **Akurat dan Terpercaya:** Berita yang disajikan oleh jurnalis berpengalaman dengan standar jurnalistik yang tinggi.
 + **Cepat dan Up-to-Date:** Selalu mendapatkan berita terkini dengan update real-time.
 + **Beragam Konten:** Dari berita harian hingga analisis mendalam dan konten multimedia.
 + **Akses Mudah:** Bisa diakses dari berbagai perangkat, memastikan Anda tetap up-to-date dengan berita terbaru kapan saja.
-
-
+</p>
 
 

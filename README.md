@@ -1,32 +1,32 @@
 <div align="center">
-
+<h1>Yahoo News: Trusted and Current News Source</h1>
+ 
 <p align="center" width="200%">
     <img width="75%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Yahoo_news_logo.svg/2560px-Yahoo_news_logo.svg.png">
 </p>
  
- # From Web to Data: Scraping yahoo News for Actionable Insights
+ # From Web to Data: Transforming Yahoo News into Actionable Insights
 
 
   
-## 🗞️:Tampilan Menu
+## 🗞️ Tampilan Menu
 
-</p>
-
-[Tentang](#newspaper-Tentang)
-•
-[Deskripsi Project](#open_book-Project)
-•
-[Dokument](#books-Dokument)
-•
-[Visualisasi Data Scraping](#bar_chart-visualisasi-data-scraping)
-•
-[PPT](#computer-PPT)
-•
-[Pengembang](#astronaut-Pengembang)
-•
-[Dokumentasi](#camera_flash-dokumentasi)
-
+<div align="center">
+    <a href="#newspaper-Tentang">📄 Tentang</a>
+    •
+    <a href="#open_book-Project">📘 Deskripsi Project</a>
+    •
+    <a href="#books-Dokument">📚 Dokument</a>
+    •
+    <a href="#bar_chart-visualisasi-data-scraping">📊 Visualisasi Data Scraping</a>
+    •
+    <a href="#computer-PPT">💻 PPT</a>
+    •
+    <a href="#astronaut-Pengembang">🚀 Pengembang</a>
+    •
+    <a href="#camera_flash-dokumentasi">📸 Dokumentasi</a>
 </div>
+
 
 # :newspaper: Tentang
 

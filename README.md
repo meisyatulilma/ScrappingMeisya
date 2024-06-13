@@ -26,7 +26,7 @@
     •
     <a href="#camera_flash-dokumentasi">📸 Dokumentasi</a>
 </div>
-
+</p>
 
 # :newspaper: Tentang
 

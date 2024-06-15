@@ -98,7 +98,7 @@ Here is one of the documents stored in MongoDB as a result of scraping. Each of 
 
 ## :computer: PPT
 Here is the PowerPoint link related to the project that has been made :
-
+[PPPT Scrapping](https://github.com/meisyatulilma/ScrappingMeisya/blob/main/Project%20MDS%20Meisyatul%20Ilma%20-%20G1501231073.pdf)
 
 # :astronaut: Author
 <table>

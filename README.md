@@ -12,7 +12,7 @@
 
 <div align="center">
     
-[📄 About](#Why yahoo!news???)
+[📄 About](#Why-yahoo!news???)
 •
 [📘 Project Description](#open_book-Project )
 •

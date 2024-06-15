@@ -1,4 +1,4 @@
-<div align="center"><h1></b> Yahoo News: Trusted and Current News Source</h1>
+<div align="center"><h1><b> Yahoo News: Trusted and Current News Source</b></h1>
 </div>
 <p align="center" width="60%">
     <img width="80%" src="image/cover mds.png">
@@ -10,8 +10,7 @@
 </div>
 
 
-## Navigation
-<div align="center">
+<div align="center">   
     <a href="#newspaper-about">📄 About</a>
     •
     <a href="#open_book-project">📘 Project Description</a>
@@ -29,7 +28,7 @@
 </p>
 
  
-## <div><b> Why Yahoo! News??? </b>
+## <div><b> Why yahoo<em>!</em>news??? </b>
 
 <div align="justify">
 
@@ -54,23 +53,27 @@ Today's top stories on Yahoo News include discussions on global politics at the 
 
 
 ## :open_book: Project 
+
 <p align="center" width="60%">
-    <img width="40%" src="image/mds image.jpg">
+    <img width="50%" src="image/cover mds 2.png">
+</p>
+<p align="justify">
+Scraping news from <a href="https://news.yahoo.com/">Yahoo News</a> is conducted to collect and analyze current information on important global events. By accessing data directly from Yahoo News, this project aims to provide in-depth insights into various topics, including politics, economics, entertainment, and technology. The collected data will be used to build analytical tools to understand news trends, identify key issues, and offer a comprehensive view of global dynamics. This project offers opportunities to create personalized news applications, interactive analytics dashboards, and reliable information sources for researchers, journalists, and the general public. By integrating scraping technology, data analysis, and engaging visualizations, this project seeks to enhance understanding and access to relevant and important information in today's world.
+The key data points collected in this scraping project include:
 
- </p>
-<p align="justify"> 
-Scraping berita dari situs <a href="https://news.yahoo.com/">Yahoo News</a> dilakukan untuk mengumpulkan dan menganalisis informasi terkini mengenai peristiwa-peristiwa penting dari seluruh dunia. Dengan mengakses data langsung dari Yahoo News, project ini bertujuan untuk menyediakan wawasan mendalam tentang berbagai topik, mulai dari politik, ekonomi, hiburan, hingga teknologi. Data yang dikumpulkan akan digunakan untuk membangun alat analisis yang dapat membantu memahami tren berita, mengidentifikasi isu-isu utama, dan memberikan gambaran yang lebih komprehensif tentang dinamika global. Proyek ini menawarkan peluang untuk menciptakan aplikasi berita yang lebih personalisasi, dashboard analitik yang interaktif, dan sumber informasi yang andal bagi para peneliti, jurnalis, dan masyarakat umum. Dengan mengintegrasikan teknologi scraping, analisis data, dan visualisasi yang menarik, project ini dilakukan untuk meningkatkan pemahaman dan akses terhadap informasi yang relevan dan penting di dunia saat ini.
-      
- data yang diambil pada project scraping meliputi beberapa poin kunci berikut : 
- </p>
- <div align="justify"> 
+</p>
+<div align="justify"> 
+    
++ 🪪 **id :** A unique identifier for each scraped news entry, used to differentiate each news item in the database.
+    
++ 📝 **titles :** News headlines that provide a brief overview of the article content. These titles are usually designed to capture the reader's attention and convey the main points of the news.
   
-+ 🪪 id: Identifikasi unik dari setiap entri berita yang di-scrape, digunakan untuk membedakan setiap berita dalam basis data.
-+ 📝 titles: Judul berita yang memberikan gambaran singkat tentang isi artikel. Judul ini biasanya dirancang untuk menarik perhatian pembaca dan menyampaikan poin utama dari berita tersebut.
-+ 📅 dates: Waktu yang menunjukkan kapan berita tersebut dipublikasikan atau terakhir diperbarui. Format waktu ini bisa berupa "X jam lalu" atau "X hari lalu" yang menunjukkan seberapa baru berita tersebut.
-+ 🔗links:URL lengkap yang mengarah langsung ke halaman berita di situs Tempo.co. Link ini memungkinkan pengguna untuk membaca artikel lengkap dan memperoleh konteks lebih lanjut.
-
++ 📅 **dates :** The time indicating when the news was published or last updated. This can be in the format "X hours ago" or "X days ago," showing how recent the news is.
+  
++ 🔗 **links :** Full URLs that lead directly to the news page on Yahoo News. These links allow users to read the full article and gain further context.
 </div>
+
++ 📰 **contents :** The body text of the news articles, providing detailed information and context about the reported events
 
 # :books: Dokument
 Berikut adalah salah satu contoh dokumen di MongoDB untuk <a href="https://news.yahoo.com/">Yahoo News</a>  :

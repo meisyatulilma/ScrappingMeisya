@@ -75,8 +75,15 @@ The key data points collected in this scraping project include:
 
 + 📰 **contents :** The body text of the news articles, providing detailed information and context about the reported events
 
-# :books: Dokument
-Berikut adalah salah satu contoh dokumen di MongoDB untuk <a href="https://news.yahoo.com/">Yahoo News</a>  :
+
+<b> Project Steps: </b>
+1. Automated Scraping: We automated retrieving data from the Liputan6 news site through GitHub, focusing on the web <a href="https://news.yahoo.com/">Yahoo News</a>. This ensures that the data we collect is always up-to-date and relevant.
+2. Storage in MongoDB: The scraped data is securely and efficiently stored in MongoDB, a NoSQL database known for its reliability in managing large amounts of data, ensuring optimal data integrity and availability.
+3. Data Visualization in R: The collected data is analyzed and visualized using the R application, providing in-depth, easy-to-understand insights into trends and patterns in fact-check news, making it easier to understand complex information.
+
+
+# :books: Documents
+Here is one of the documents stored in MongoDB as a result of scraping. Each of these documents represents a news article taken from the "Today's News" section of k <a href="https://news.yahoo.com/">Yahoo News</a>  :
 
 ```mongodb
 {

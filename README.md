@@ -97,7 +97,7 @@ Here is one of the documents stored in MongoDB as a result of scraping. Each of 
 ```
 
 ## :computer: PPT
-Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat :
+Here is the PowerPoint link related to the project that has been made :
 
 
 # :astronaut: Author

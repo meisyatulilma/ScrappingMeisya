@@ -6,7 +6,7 @@
 <div align="center">
 <h2> From Headlines to Insights: : <em> Transforming Yahoo News into Knowledge Powe</em></h2>
     
-[![scrape_mds](https://github.com/dwiftrnti/PraktikumMDS-Scrapping/actions/workflows/main.yml/badge.svg)](https://github.com/dwiftrnti/PraktikumMDS-Scrapping/actions/workflows/main.yml)
+[![scrape_mds](https://github.com/meisyatulilma/ScrappingMeisya/actions/workflows/main.yml/badge.svg)](https://github.com/meisyatulilma/ScrappingMeisya/actions/workflows/main.yml) 
 </div>
 
 

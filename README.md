@@ -1,4 +1,4 @@
-<div align="center"><h1>></b> Yahoo News: Trusted and Current News Source/h1>
+<div align="center"><h1></b> Yahoo News: Trusted and Current News Source</h1>
 </div>
 <p align="center" width="60%">
     <img width="80%" src="image/cover mds.png">
@@ -28,44 +28,30 @@
 </div>
 </p>
 
-<p align="justify">
  
-# :newspaper: Tentang
+## <div><b> Why Yahoo! News??? </b>
 
-Nikmati berita terbaru dan terpercaya langsung di genggaman Anda dengan Yahoo News. Sebagai salah satu portal berita terkemuka di dunia, Yahoo News menyajikan informasi terkini dengan kualitas jurnalistik yang tinggi
+<div align="justify">
 
+Today's top stories on Yahoo News include discussions on global politics at the G7 summit, reactions from Joe and Jill Biden to Hunter Biden's verdict, the emergence of a new COVID variant, the discovery of an ancient biblical fragment, and a significant legal decision by the Oklahoma Supreme Court related to the 'Black Wall Street' massacre. Reading news on Yahoo News is essential to stay informed about significant global events, health updates, historical discoveries, and important legal decisions, keeping you well-educated and prepared for informed discussions.
+
+<p align="center" width="40%">
+    <img width="50%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Yahoo_news_logo.svg/2560px-Yahoo_news_logo.svg.png">
 </p>
 
-   
-## Fitur Unggulan Yahoo News
+</div>
 
-<p align="justify">
+**📊 Insights and Expert Analysis:** Read in-depth analysis and opinions from experts and experienced journalists. Gain a better understanding of important issues that affect your life.
 
- **🔔 Update terkini :** Jangan pernah ketinggalan berita terbaru dari berbagai bidang, mulai dari politik, ekonomi, olahraga, hingga gaya hidup. Semua disajikan secara real-time dan akurat.
+**🕵️ In-Depth Investigations:** Discover investigative reports that reveal important facts behind every event. The Yahoo News team is known for its dedication and integrity in presenting investigative news.
 
-**📊 Wawasan dan Analisis Pakar :** Baca analisis mendalam dan opini dari para pakar dan jurnalis berpengalaman. Dapatkan pemahaman yang lebih baik tentang isu-isu penting yang mempengaruhi kehidupan Anda.
+**🔔 Up to date:** Never miss the latest news from various fields, ranging from politics, economy, sports, to lifestyle. All presented in real-time and accurately.
 
-**🕵️ Investigasi Mendalam :** Temukan laporan investigasi yang mengungkap fakta-fakta penting di balik setiap peristiwa. Tim jurnalis Yahoo News dikenal dengan dedikasi dan integritas dalam menyajikan berita investigatif.
+**🎥 Rich Multimedia Content:** In addition to news articles, enjoy multimedia content such as videos, photos, and infographics that enrich your reading experience.
 
-**🎥 Konten Multimedia yang Kaya :** Selain artikel berita, nikmati juga konten multimedia seperti video, foto, dan infografis yang memperkaya pengalaman membaca Anda.
+**📱 Easy Access on All Devices:** With a user-friendly interface, you can easily access Yahoo News via browser or app on any device. Stay connected with the latest news anytime, anywhere.
+</div>
 
-**📱 Akses Mudah di Semua Perangkat :** Dengan antarmuka yang ramah pengguna, Anda dapat dengan mudah mengakses Yahoo News melalui browser atau aplikasi di perangkat apa pun. Selalu terhubung dengan berita terkini kapan saja dan di mana saja.
-</p>
-
-
-## Mengapa Memilih Yahoo News?
-
-<p align="justify">
-
-+ **Akurat dan Terpercaya:** Berita yang disajikan oleh jurnalis berpengalaman dengan standar jurnalistik yang tinggi.
-  
-+ **Cepat dan Up-to-Date:** Selalu mendapatkan berita terkini dengan update real-time.
-  
-+ **Beragam Konten:** Dari berita harian hingga analisis mendalam dan konten multimedia.
-  
-+ **Akses Mudah:** Bisa diakses dari berbagai perangkat, memastikan Anda tetap up-to-date dengan berita terbaru kapan saja.
-  
-</p>
 
 ## :open_book: Project 
 <p align="center" width="60%">

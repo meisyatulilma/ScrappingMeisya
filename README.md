@@ -1,29 +1,30 @@
-<div align="center">
-<h1>Yahoo News: Trusted and Current News Source</h1>
- 
-<p align="center" width="200%">
-    <img width="75%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Yahoo_news_logo.svg/2560px-Yahoo_news_logo.svg.png">
+<div align="center"><h1>></b> Yahoo News: Trusted and Current News Source/h1>
+</div>
+<p align="center" width="60%">
+    <img width="80%" src="image/cover mds.png">
 </p>
- 
- # From Web to Data: Transforming Yahoo News into Actionable Insights
-
-
-## < Tampilan Menu >
-
 <div align="center">
-    <a href="#newspaper-Tentang">📄 Tentang</a>
+<h2> From Headlines to Insights: : <em> Transforming Yahoo News into Knowledge Powe</em></h2>
+    
+[![scrape_mds](https://github.com/dwiftrnti/PraktikumMDS-Scrapping/actions/workflows/main.yml/badge.svg)](https://github.com/dwiftrnti/PraktikumMDS-Scrapping/actions/workflows/main.yml)
+</div>
+
+
+## Navigation
+<div align="center">
+    <a href="#newspaper-about">📄 About</a>
     •
-    <a href="#open_book-Project">📘 Deskripsi Project</a>
+    <a href="#open_book-project">📘 Project Description</a>
     •
-    <a href="#books-Dokument">📚 Dokument</a>
+    <a href="#books-documents">📚 Documents</a>
     •
-    <a href="#bar_chart-visualisasi-data-scraping">📊 Visualisasi Data Scraping</a>
+    <a href="#bar_chart-data-scraping-visualization">📊 Data Scraping Visualization</a>
     •
-    <a href="#computer-PPT">💻 PPT</a>
+    <a href="#computer-ppt">💻 PPT</a>
     •
-    <a href="#astronaut-Pengembang">🚀 Pengembang</a>
+    <a href="#astronaut-developers">🚀 Developers</a>
     •
-    <a href="#camera_flash-dokumentasi">📸 Dokumentasi</a>
+    <a href="#camera_flash-documentation">📸 Documentation</a>
 </div>
 </p>
 

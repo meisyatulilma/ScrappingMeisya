@@ -98,12 +98,12 @@ Here is one of the documents stored in MongoDB as a result of scraping. Each of 
 
 ## :computer: PPT
 Here is the PowerPoint link related to the project that has been made :
-[PPPT Scrapping](https://github.com/meisyatulilma/ScrappingMeisya/blob/main/Project%20MDS%20Meisyatul%20Ilma%20-%20G1501231073.pdf)
+[PPT Scrapping](https://github.com/meisyatulilma/ScrappingMeisya/blob/main/Project%20MDS%20Meisyatul%20Ilma%20-%20G1501231073.pdf)
 
 # :astronaut: Author
 <table>
   <tr>
-   <td align="center"><a href="https://github.com/meisyatulilma"><img src="image/mds image 2.jpeg" width="115px;" alt=""/><br /><sub><b>Meisyatul Ilma </b></sub></a><br /><a
+   <td align="center"><a href="https://github.com/meisyatulilma"><img src="image/mds image 2.jpeg" width="145px;" alt=""/><br /><sub><b>Meisyatul Ilma </b></sub></a><br /><a
 <br /><sub><b>G1501231073 </b></sub></a>
   </tr>
 </table>

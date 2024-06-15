@@ -12,17 +12,15 @@
 
 <div align="center">
     
-[📄 About](#why-yahoo-news")
+[📄 About](#why-yahoo-news)
 •
-[📘 Project Description](#project)
+[📘 Project Description](#open_book-Project )
 •
-[📚 Documents](#documents)
+[📚 Documents](#books-Documents)
 •
-[📊 Data Scraping Visualization](#data-scraping-visualization)
+[💻 PPT](#computer-PPT)
 •
-[💻 PPT](#ppt)
-•
-[🚀 Author](#author)
+[🚀 Author](#astronaut-Author)
 
 </p>
  

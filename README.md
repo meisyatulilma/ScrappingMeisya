@@ -36,6 +36,8 @@ Today's top stories on Yahoo News include discussions on global politics at the 
 
 </div>
 
+<div align="justify">
+
 **📊 Insights and Expert Analysis:** Read in-depth analysis and opinions from experts and experienced journalists. Gain a better understanding of important issues that affect your life.
 
 **🕵️ In-Depth Investigations:** Discover investigative reports that reveal important facts behind every event. The Yahoo News team is known for its dedication and integrity in presenting investigative news.

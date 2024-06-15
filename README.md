@@ -1,7 +1,7 @@
 <div align="center"><h1><b> Yahoo News: Trusted and Current News Source</b></h1>
 </div>
-<p align="center" width="60%">
-    <img width="80%" src="image/cover mds.png">
+<p align="center" width="70%">
+    <img width="70%" src="image/cover mds.png">
 </p>
 <div align="center">
 <h2> From Headlines to Insights: : <em> Transforming Yahoo News into Knowledge Powe</em></h2>
@@ -35,7 +35,7 @@
 Today's top stories on Yahoo News include discussions on global politics at the G7 summit, reactions from Joe and Jill Biden to Hunter Biden's verdict, the emergence of a new COVID variant, the discovery of an ancient biblical fragment, and a significant legal decision by the Oklahoma Supreme Court related to the 'Black Wall Street' massacre. Reading news on Yahoo News is essential to stay informed about significant global events, health updates, historical discoveries, and important legal decisions, keeping you well-educated and prepared for informed discussions.
 
 <p align="center" width="40%">
-    <img width="50%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Yahoo_news_logo.svg/2560px-Yahoo_news_logo.svg.png">
+    <img width="40%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Yahoo_news_logo.svg/2560px-Yahoo_news_logo.svg.png">
 </p>
 
 </div>
@@ -54,8 +54,8 @@ Today's top stories on Yahoo News include discussions on global politics at the 
 
 ## :open_book: Project 
 
-<p align="center" width="60%">
-    <img width="50%" src="image/cover mds 2.png">
+<p align="center" width="55%">
+    <img width="55%" src="image/cover mds 2.png">
 </p>
 <p align="justify">
 Scraping news from <a href="https://news.yahoo.com/">Yahoo News</a> is conducted to collect and analyze current information on important global events. By accessing data directly from Yahoo News, this project aims to provide in-depth insights into various topics, including politics, economics, entertainment, and technology. The collected data will be used to build analytical tools to understand news trends, identify key issues, and offer a comprehensive view of global dynamics. This project offers opportunities to create personalized news applications, interactive analytics dashboards, and reliable information sources for researchers, journalists, and the general public. By integrating scraping technology, data analysis, and engaging visualizations, this project seeks to enhance understanding and access to relevant and important information in today's world.

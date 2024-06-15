@@ -11,22 +11,20 @@
 
 
 <div align="center">
-    <a href="#why-yahoo-news">📄 About</a>
-    •
-    <a href="#project">📘 Project Description</a>
-    •
-    <a href="#documents">📚 Documents</a>
-    •
-    <a href="#data-scraping-visualization">📊 Data Scraping Visualization</a>
-    •
-    <a href="#ppt">💻 PPT</a>
-    •
-    <a href="#author">🚀 Author</a>
-    •
-    <a href="#documentation">📸 Documentation</a>
-</div>
-</p>
+    
+[📄 About](#why-yahoo-news")
+•
+[📘 Project Description](#project)
+•
+[📚 Documents](#documents)
+•
+[📊 Data Scraping Visualization](#data-scraping-visualization)
+•
+[💻 PPT](#ppt)
+•
+[🚀 Author](#author)
 
+</p>
  
 ## <div><b> Why yahoo<em>!</em>news??? </b>
 

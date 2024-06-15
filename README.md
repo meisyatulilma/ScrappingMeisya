@@ -60,6 +60,7 @@ Scraping news from <a href="https://news.yahoo.com/">Yahoo News</a> is conducted
 The key data points collected in this scraping project include:
 
 </p>
+
 <div align="justify"> 
     
 + 🪪 **id :** A unique identifier for each scraped news entry, used to differentiate each news item in the database.
@@ -69,10 +70,8 @@ The key data points collected in this scraping project include:
 + 📅 **dates :** The time indicating when the news was published or last updated. This can be in the format "X hours ago" or "X days ago," showing how recent the news is.
   
 + 🔗 **links :** Full URLs that lead directly to the news page on Yahoo News. These links allow users to read the full article and gain further context.
-</div>
 
 + 📰 **contents :** The body text of the news articles, providing detailed information and context about the reported events
-
 
 <b> Project Steps: </b>
 1. Automated Scraping: We automated retrieving data from the Liputan6 news site through GitHub, focusing on the web <a href="https://news.yahoo.com/">Yahoo News</a>. This ensures that the data we collect is always up-to-date and relevant.

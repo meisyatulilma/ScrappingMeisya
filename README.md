@@ -10,20 +10,20 @@
 </div>
 
 
-<div align="center">   
-    <a href="#newspaper-about">📄 About</a>
+<div align="center">
+    <a href="#why-yahoo-news">📄 About</a>
     •
-    <a href="#open_book-project">📘 Project Description</a>
+    <a href="#project">📘 Project Description</a>
     •
-    <a href="#books-documents">📚 Documents</a>
+    <a href="#documents">📚 Documents</a>
     •
-    <a href="#bar_chart-data-scraping-visualization">📊 Data Scraping Visualization</a>
+    <a href="#data-scraping-visualization">📊 Data Scraping Visualization</a>
     •
-    <a href="#computer-ppt">💻 PPT</a>
+    <a href="#ppt">💻 PPT</a>
     •
-    <a href="#astronaut-developers">🚀 Developers</a>
+    <a href="#author">🚀 Author</a>
     •
-    <a href="#camera_flash-documentation">📸 Documentation</a>
+    <a href="#documentation">📸 Documentation</a>
 </div>
 </p>
 
@@ -104,7 +104,7 @@ Here is one of the documents stored in MongoDB as a result of scraping. Each of 
 Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat :
 
 
-# :astronaut: Pengembang
+# :astronaut: Author
 <table>
   <tr>
    <td align="center"><a href="https://github.com/meisyatulilma"><img src="image/mds image 2.jpeg" width="115px;" alt=""/><br /><sub><b>Meisyatul Ilma </b></sub></a><br /><a

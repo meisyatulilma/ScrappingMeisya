@@ -4,7 +4,7 @@
     <img width="70%" src="image/cover mds.png">
 </p>
 <div align="center">
-<h2> From Headlines to Insights: : <em> Transforming Yahoo News into Knowledge Powe</em></h2>
+<h2> From Headlines to Insights: : <em> Transforming Yahoo News into Knowledge Power</em></h2>
     
 [![scrape_mds](https://github.com/meisyatulilma/ScrappingMeisya/actions/workflows/main.yml/badge.svg)](https://github.com/meisyatulilma/ScrappingMeisya/actions/workflows/main.yml) 
 </div>

@@ -97,7 +97,7 @@ Here is one of the documents stored in MongoDB as a result of scraping. Each of 
 }
 ```
 ## :bar_chart: Data Visualization
-Data that has been obtained from Yahoo.news: Today's News, through automatic scraping will be visualized using the R application. To see the visualization results along with the syntax used: [yahoo!news Data Visualization Syntax](https://rpubs.com/meisyatulilma/VisDat_Scrapping_YahooNews)
+Data that has been obtained from Yahoo.news: Today's News, through automatic scraping will be visualized using the R application. To see the visualization results along with the syntax used: [Yahoo.news Scrapping Data Visualization Syntax](https://rpubs.com/meisyatulilma/1198758)
 
 ## :computer: PPT
 Here is the PowerPoint link related to the project that has been made :

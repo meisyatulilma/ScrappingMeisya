@@ -101,7 +101,7 @@ Data that has been obtained from Yahoo.news: Today's News, through automatic scr
 
 ## :computer: PPT
 Here is the PowerPoint link related to the project that has been made :
-[PPT Scrapping](Yahoo news Scrapping Data Visualization.pdf)
+[PPT Scrapping](https://github.com/meisyatulilma/ScrappingMeisya/blob/main/Yahoo%20news%20Scrapping%20Data%20Visualization.pdf)
 
 # :astronaut: Author
 <table>
